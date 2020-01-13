@@ -1,0 +1,14 @@
+
+app
+-id, name
+
+element
+-id, app_id, name, code, x, y, z, rotation
+-fill_color, border_color, text_color, shadow_color, shape_id
+-eye_time, mouse_time, mouse_clicks, scroll_time, keyboard_time
+
+shape
+id, name, points, edges
+
+app_goal
+id, app_id, name, trigger
